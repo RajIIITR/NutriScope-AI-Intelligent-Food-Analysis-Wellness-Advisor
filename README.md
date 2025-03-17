@@ -57,4 +57,4 @@ streamlit run app.py
 ```
 
 ## Deployment
-NutriScope-AI is also available online. Try it here: [NutriScope-AI Deployment](#) *([Add deployment link if available](https://nutriscope-ai.streamlit.app/))*
+NutriScope-AI is also available online. Try it here: [NutriScope-AI Deployment](#) *(https://nutriscope-ai.streamlit.app/)*
